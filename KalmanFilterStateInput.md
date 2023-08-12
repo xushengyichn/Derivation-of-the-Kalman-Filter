@@ -286,5 +286,9 @@ This process repeats for each time step, aiming to reduce the estimation error o
 
 
 
+## steady state
 
+It is the same as Kalman Filter with no input, please read KalmanFilterNoInput.md
+
+ 
 
